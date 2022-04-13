@@ -1,0 +1,182 @@
+.body{
+    background-color: rgb(25, 24, 22); 
+     }
+
+
+.top{
+    height: 640px;
+    width: 950px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 5%;
+    position: relative;
+
+    margin:10px;
+    margin-left:  80px;
+    margin-right:  50px;
+    padding:50px;
+    
+     background-color: rgb(247, 153, 11)
+     
+
+    }
+
+
+
+.second{
+    height: 600px;
+    width: 1100px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 5%;
+    position: relative;
+    margin: 10px;
+    margin-left:  50px;
+    margin-right:  50px;
+    padding:50px;
+background-color: rgb(151, 238, 11)
+
+       }
+
+
+.Dleft,.Dright{
+    border:1px solid black;
+    border-width: 5px;
+    border-radius: 5%;
+    height: 900px;
+    width: 600px;
+    padding: 10px;
+    margin: 10px;
+    margin-left:10px;
+    float:left;
+    font-size:32px;
+              }
+
+              .Dleft{
+                background:rgb(0, 140, 255);
+              }
+   
+              .Dright{
+                  background-color: rgb(232, 80, 255);
+              }
+
+
+
+              .Dleft2,.Dright2{
+                border:1px solid black;
+                border-width: 5px;
+                border-radius: 5%;
+                height: 900px;
+                width: 600px;
+                padding: 10px;
+                margin: 10px;
+                margin-left:10px;
+                float:left;
+                font-size:32px;
+                          }
+
+
+
+                          .Dleft2{
+                            background-color: brown;
+                          }
+               
+                          .Dright2{
+                              background-color: rgb(80, 238, 255);
+                          }
+
+.headpic{
+    float:left;
+    POSITION:relative;
+    left:40px;
+    bottom: 30px;
+
+        }
+
+
+
+
+
+
+.Java{
+    
+    width: 65% ;
+    background-color: #005475;
+    border-radius: 1cm;
+    text-align: center;
+    border-style:solid;
+    border-width: 0.5cm;
+    border-color:#ea002f;
+    }
+
+.HTML{
+   
+    width: 70% ;
+    background-color: #005c75;
+    border-radius: 1cm;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.5cm;
+    border-color:#ea00d3;
+    }
+
+.CSS{
+   
+    width: 70% ;
+    background-color: #005c75;
+    border-radius: 1cm;
+    text-align: center;
+    border-style: solid;
+    border-width: 0.5cm;
+    border-color:#ea00d3;
+   }
+
+.Net{
+    
+    width: 50% ;
+    background-color: #005875;
+    border-radius: 1cm;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(210, 30, 150);
+    border-width: 0.5cm;
+    }
+
+
+.Python{
+    
+    width: 50% ;
+    background-color: #005875;
+    border-radius: 1cm;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(210, 30, 150);
+    border-width: 0.5cm;
+    }
+
+
+
+.title{
+    text-align:center;
+    font-family:標楷體;
+    font-weight: bolder;
+    font-size: 50px;
+    padding-top: 1px;
+    }
+
+
+
+
+    .p1{
+        padding:20px 90px;
+        margin:30px;
+        background-color: #72BFFF;
+        font-family:微軟正黑體; 
+    }
+    * {
+      box-sizing: border-box;
+    }
+
+
